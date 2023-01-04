@@ -64,5 +64,3 @@ Outcome
 </h4>
 <hr>
 To make this project more practical, we just need to write a program to save the image of people who pass in front of the camera. Therefore, I will also put the face recognition project through the camera in my repository.
-<br>
-## GOODLUCK
